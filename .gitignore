@@ -4,6 +4,7 @@
 *.userosscache
 *.sln.docstates
 
+
 # 忽略 Visual Studio 生成的文件
 .vs/
 bin/
@@ -14,6 +15,7 @@ x64/
 x86/
 bld/
 [Ll]og/
+wwwroot/
 
 # 忽略 NuGet 包目录
 packages/

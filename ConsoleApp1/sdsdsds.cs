@@ -11,6 +11,8 @@ namespace ConsoleApp1
         public void AA()
         {
             Console.WriteLine("我是小明");
+            Console.WriteLine("张三李四");
+            Console.WriteLine("王五赵六");
         }
     }
 }
