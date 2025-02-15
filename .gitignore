@@ -4,7 +4,6 @@
 *.userosscache
 *.sln.docstates
 
-
 # 忽略 Visual Studio 生成的文件
 .vs/
 bin/
@@ -84,3 +83,17 @@ orleans.codegen.cs
 
 # 忽略 Cake 构建工具
 tools/
+
+# 补充的 .NET Core 相关规则
+project.assets.json
+dotnet-tools.json
+Properties/launchSettings.json
+
+# 通用补充规则
+.vscode/
+*~
+*.bak
+
+# 前端相关补充规则（如果适用）
+dist/
+.babelcache.json

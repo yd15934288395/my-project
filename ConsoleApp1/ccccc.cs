@@ -12,6 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("我进来了！");
             Console.WriteLine("我新增了");
+            Console.WriteLine("我1122新增了");
         }
     }
 }
